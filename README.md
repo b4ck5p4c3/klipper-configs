@@ -1,5 +1,3 @@
-# 3d-klipper-configs
+# klipper-configs
 
-Config files for Slicers & 3D printers in B4CKSP4CE
-
-For detailed documentation on specific printer, look into its directory
+Klipper configuration files for various 3D printers found in B4CKSP4CE.
