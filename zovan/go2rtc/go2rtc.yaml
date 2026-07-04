@@ -1,0 +1,13 @@
+streams:
+  3d-camera-overview: rtsp://root:12345@3d-camera.int.bksp.in/stream=0
+
+
+api:
+  listen: ":1984"
+  origin: "*"
+
+log:
+  level: warn
+
+rtmp:
+  listen: ":1935"
